@@ -1,0 +1,5 @@
+{
+  "name": "slack_notify",
+  "private": true,
+  "dependencies": {}
+}
